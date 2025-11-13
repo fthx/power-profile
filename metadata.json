@@ -1,8 +1,12 @@
 {
-  "description": "Add current power profile in panel's system icons. Very light extension.\n\n Additionally you can scroll on this indicator to change the power profile.\n\n Preferences: icon colored or not.",
+  "description": "Add current power profile in panel's system icons. Very light extension.",
   "name": "Power profile indicator",
-  "settings-schema": "org.gnome.shell.extensions.power-profile",
-  "shell-version": ["46", "47", "48"],
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
   "url": "https://github.com/fthx/power-profile",
   "uuid": "power-profile@fthx",
   "version": 999
