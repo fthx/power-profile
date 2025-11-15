@@ -1,5 +1,5 @@
 {
-  "description": "Add current power profile in panel's system icons. Very light extension.",
+  "description": "Add current power profile as system indicator.\n\n Scroll to change profile.\n\nVery light extension.",
   "name": "Power profile indicator",
   "shell-version": [
     "46",
