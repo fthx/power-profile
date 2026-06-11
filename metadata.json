@@ -1,13 +1,13 @@
 {
-  "description": "Add current power profile as system indicator.\n\n Scroll to change profile.\n\nVery light extension.",
+  "description": "Add current power profile as system indicator. Just ensure balanced mode visibility in GNOME 50.\n\n Scroll to change profile.\n\nVery light extension.",
   "name": "Power profile indicator",
   "shell-version": [
-    "46",
-    "47",
-    "48",
-    "49"
+    "50"
   ],
   "url": "https://github.com/fthx/power-profile",
   "uuid": "power-profile@fthx",
-  "version": 999
+  "version": 999,
+  "donations": {
+    "paypal": "fthx75"
+  }
 }
